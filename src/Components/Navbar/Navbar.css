@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    /* position: fixed; */
+    top: 10px;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    z-index: 999;
+  }
+  
+  .navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 25px;
+    color:rgb(246, 243, 243);
+    padding-left: 50px;
+  }
+  
+  .navbar-buttons {
+    padding-left: 800px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .button {
+    margin-left: 10px;
+    padding: 3px 15px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 25px;
+    color:rgb(11, 195, 66);
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  
+ 

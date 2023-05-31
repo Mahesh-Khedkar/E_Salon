@@ -1,0 +1,69 @@
+ /* Most_Popular */
+
+ .most_Popular{
+    height: 550px;
+    background: radial-gradient(white,silver);
+  }
+  .mostcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+  .m_nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+
+  /* Reviews */
+  .reviews{
+    height: 300px;
+    background: radial-gradient(white,silver);
+  }
+
+  /* Download app */
+   .download{
+    height: 520px;
+    background: radial-gradient(white,silver);
+  }
+
+  /* Best */
+  .best{
+    height: 180px;
+    background: radial-gradient(white,silver);
+    text-align: center;
+  }
+  .bcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+  .bdiv1{
+    height: 90px;
+    width: 130px;
+    text-align: center;
+  }
+
+  /* Footer */
+  .fcontainer
+        {
+            background: radial-gradient(white,silver);
+            height: 250px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* justify-content: space-evenly; */
+        }
+        .tab
+        {
+            width: 900px;
+            height: 200px;
+            text-align: left;
+            column-gap: 30px;
+        }
