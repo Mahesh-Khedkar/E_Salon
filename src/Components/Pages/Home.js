@@ -23,8 +23,8 @@ const Home = () => {
       </div>
       <div style={myStyle}>
         {/* <h1>Book your seat and</h1> */}  
-      </div><br></br>
-      <Most_Popular/><br></br> 
+      </div>
+      <Most_Popular/>
       <Reviews/><br></br>
       {/* <Download/><br></br> */}
       <Best/><br></br>

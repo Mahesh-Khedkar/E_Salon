@@ -30,94 +30,94 @@ const Most_Popular = () => {
       </div><br></br>
 
       <div className='mostcontainer'>
-      <Card style={{ width: '15rem' }}>
+      <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid-sblack', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
-        <Card style={{ width: '15rem' }}>
+        <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
-        <Card style={{ width: '15rem' }}>
+        <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
-        <Card style={{ width: '15rem' }}>
+        <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
       </div>
       <br></br>
       <div className='mostcontainer'>
-      <Card style={{ width: '15rem' }}>
+      <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
-        <Card style={{ width: '15rem' }}>
+        <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
-        <Card style={{ width: '15rem' }}>
+        <Card style={{ width: '12rem', height:'13rem', borderRadius:'15px' }}>
           <Card.Img variant="top" src="holder.js/100px180" />
-          <Card.Body>
-          <Card.Title style={{ fontSize: '17px' }}>PHONES & ACCESSORIES</Card.Title>
+          <Card.Body style={{background: 'linear-gradient(white, gray)', borderRadius:'15px'}}>
+          <Card.Title style={{ fontSize: '13px'}}>PHONES & ACCESSORIES</Card.Title>
           <Card.Text>
           4.5 (2255) <br></br>
           Torrento, Canada
           </Card.Text>
-          <Button style={{ color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
+          <Button style={{ padding:'2px 10px', color: 'black', border: '1px solid black', borderRadius: '15px', backgroundColor: 'transparent' }}>Hair salon</Button>
         </Card.Body>
         </Card>
 
-        <div style={{ width: '15rem' }}>
+        <div style={{ width: '12rem' }}>
           <Card.Body>
           {/* <Card.Title>PHONES & ACCESSORIES</Card.Title> */}
           {/* <Card.Text>

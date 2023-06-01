@@ -1,8 +1,9 @@
  /* Most_Popular */
 
  .most_Popular{
-    height: 550px;
-    background: radial-gradient(white,silver);
+    height: 610px;
+    /* background: radial-gradient(white,silver); */
+    border: 4px solid black;
   }
   .mostcontainer{
     display: flex;
@@ -21,8 +22,10 @@
 
   /* Reviews */
   .reviews{
-    height: 300px;
-    background: radial-gradient(white,silver);
+    height: 370px;
+    /* background: radial-gradient(white,silver); */
+    border: 4px solid black;
+
   }
 
   /* Download app */
