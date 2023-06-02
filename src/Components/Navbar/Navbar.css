@@ -23,6 +23,7 @@ body {
     font-size: 25px;
     color:rgb(246, 243, 243);
     padding-left: 50px;
+    cursor: pointer;
   }
   
   .navbar-buttons {

@@ -1,9 +1,11 @@
-import React from 'react'
-import Home from './Components/Pages/Home'
+import React from 'react';
+import Home from './Components/Pages/Home';
+import User from './Components/Pages/User/User';
 const App = () => {
   return (
     <div>
-      <Home/>
+      {/* <Home/> */}
+      <User/>
     </div>
   )
 }

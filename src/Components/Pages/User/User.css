@@ -1,0 +1,102 @@
+/* Navbar */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    /* position: fixed; */
+    top: 10px;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    z-index: 999;
+  }
+  
+  .navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 25px;
+    color:black;
+    padding-left: 30px;
+    cursor: pointer;
+
+  }
+
+  .search_container{
+    width: 285px;
+    height:35px; 
+    background-color: rgb(226, 223, 223);
+    border:1px solid black;
+    border-radius:17px;
+    padding-left:20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-buttons {
+    color: black;
+    padding-left: 500px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  }
+  
+  .button {
+    margin-left: 10px;
+    padding: 0.1px 8px;
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  option{
+    border: none;
+  }
+
+  /* UserHome */
+  .most_Popular{
+    height: 600px;
+    border: none;
+  }
+
+  .mostcontainer{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+  .m_nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+  .iconsContainer{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+  }
+  .icons{
+    height: 30px;
+    width: 30px;
+    border: 0.5px solid black;
+    
+  }
+  .buttons{
+    margin-left: 200px;
+    display: flex;
+    align-items:end;
+    justify-content:flex-end;
+  }
