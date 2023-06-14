@@ -2,11 +2,11 @@ import React from 'react'
 import './components.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import Shop1 from './Images/Review 1.jpg';
-import Shop2 from './Images/Shop2.jpg';
-import Shop3 from './Images/Shop3.jpg';
-import Shop4 from './Images/Shop4.jpg';
-import Shop5 from './Images/Shop5.jpg';
+import Shop1 from '../../Images/Review 1.jpg';
+import Shop2 from '../../Images/Shop2.jpg';
+import Shop3 from '../../Images/Shop3.jpg';
+import Shop4 from '../../Images/Shop4.jpg';
+import Shop5 from '../../Images/Shop5.jpg';
 
 
 const Most_Popular = () => {

@@ -1,0 +1,87 @@
+.nav_book{
+    margin-top: 10px;
+    margin-left: 50px;
+    display:'flex';
+    justify-content:'space-evenly';
+    align-items:left;
+    border-bottom: 2px solid black;
+}
+
+.navbtn{
+    background-color: transparent;
+    color: black;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+/* Select Staff */
+.staff_card{
+    display:flex;
+    align-items:center;
+    margin-top: 25px;
+}
+.staff_Img{
+    height: 64px;
+    width: 64px;
+    border-radius: 32px;
+    border: 1px solid black;
+}
+.staff_txt{
+    height: 64px;
+    width: 190px;
+    padding-left: 20px;
+}
+.staff_add{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    border: 2px solid black;
+    padding:4px 5px;
+    cursor: pointer;
+}
+.staff_add:hover{
+    background-color : rgb(11, 248, 43);
+}
+
+
+/* Date & time */
+.date_card{
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.date_card:hover{
+    background-color: rgb(243, 72, 86);
+}
+.dates{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.timeContainer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.timebtn{
+    border-radius: 20px;
+    height: 30px;
+    width: 90px;
+}
+.timebtn:hover{
+    border-radius: 20px;
+    height: 30px;
+    width: 90px;
+    background-color: black;
+    color: white;
+}
+
+/* Review&Book */

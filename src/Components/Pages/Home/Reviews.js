@@ -2,11 +2,12 @@ import React from 'react'
 import './components.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import Rev1 from './Images/Review 1.jpg';
-import Rev2 from './Images/Review 2.jpg';
-import Rev3 from './Images/Review 3.jpg';
-import Rev4 from './Images/Review 4.jpg';
-
+import Rev1 from '../../Images/Review 1.jpg';
+import Rev2 from '../../Images/Review 2.jpg';
+import Rev3 from '../../Images/Review 3.jpg';
+import Rev4 from '../../Images/Review 4.jpg';
+import ArrowForwardIosIcon from '@material-ui/icons/ArrowForward';
+import ArrowBackwardIosIcon from '@material-ui/icons/ArrowBack';
 
 const Most_Popular = () => {
   return (
@@ -14,8 +15,8 @@ const Most_Popular = () => {
     <br></br>
       <h2 style={{paddingLeft:'120px'}}>Reviews</h2>
       <div className='Rcontainer'>
-      <div style={{ width: '50px',height:'50px', border:'1px solid black', borderRadius:'25px', cursor: 'pointer'}}>
-          <h1>  </h1>
+      <div style={{ width: '34px',height:'34px', border:'2px solid black', borderRadius:'17px', alignItems:'center', cursor: 'pointer'}}>
+          <ArrowBackwardIosIcon/>
         </div>
       <Card style={{ width: '12rem', height:'10rem',border:'none'}}>
           <div >
@@ -72,8 +73,8 @@ const Most_Popular = () => {
           </Card.Text>
         </Card.Body>
         </Card>
-        <div style={{ width: '50px',height:'50px', border:'1px solid black', borderRadius:'25px', cursor: 'pointer'}}>
-          <h1>></h1>
+        <div style={{ width: '34px',height:'34px', border:'2px solid black', borderRadius:'17px', alignItems:'center', cursor: 'pointer'}}>
+          <ArrowForwardIosIcon/>
         </div>
       </div>
     </div>

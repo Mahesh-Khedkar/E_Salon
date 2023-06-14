@@ -2,15 +2,15 @@ import React from 'react';
 import './components.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import M1 from './Images/mockup 1.png'
-import M2 from './Images/mockup 2.png'
+import M1 from '../../Images/mockup 1.png'
+import M2 from '../../Images/mockup 2.png'
 
 
 const Most_Popular = () => {
   return (
     <div className='download1'>
       <div className='QR'>
-        <h1><b>Download the App</b></h1><br></br><br></br>
+        <h1><b>Download the Kleepx App</b></h1><br></br><br></br>
         <h5><b>
           Book your seat from KleepX and save your<br></br>
           valuable time at beauty shop

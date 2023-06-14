@@ -9,19 +9,15 @@ import M2 from './Images/mockup 2.png'
 const Most_Popular = () => {
   return (
     <div className='download1'>
-      <div className='QR'>
-        <h1><b>Download the App</b></h1><br></br><br></br>
-        <h5><b>
-          Book your seat from KleepX and save your<br></br>
-          valuable time at beauty shop
-          </b>
-          <div style={{display:'flex', justifyContent:'space-around',marginTop:'40px',alignItems:'flex-start'}}>
-            <div style={{height:'120px', width:'120px',border:'1px solid black'}}></div>
-            <div style={{height:'120px', width:'120px',border:'1px solid black'}}></div>
-          </div>
-        </h5>
-        
-      </div>
+        <div className='QR'>
+            <h1><b>Business with <br></br>Kleepx</b></h1><br></br><br></br>
+            <h5><b>
+             Register your beauty shop on Kleepx business 
+             and make it more visible for online booking.
+           </b>
+          </h5>
+          <Button style={{marginTop:'20px', backgroundColor:'black'}}>Know more</Button>
+        </div>
       <div className='mobimg'>
         <div >
           <Card.Img variant="top" src={M1} style={{width:'450px', height:'480px'}}></Card.Img>
@@ -33,7 +29,4 @@ const Most_Popular = () => {
     </div>
   )
 }
-
-    
-
 export default Most_Popular
